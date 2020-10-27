@@ -1,0 +1,17 @@
+{
+  "name": "geometry_problem_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "npm run compile && node build/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
